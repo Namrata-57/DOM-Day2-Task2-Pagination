@@ -1,0 +1,31 @@
+#data-table,
+th,
+td {
+    border: 1px solid black;
+    background-color: aliceblue;
+    padding: 5px;
+    margin: 10px;
+    text-align: center;
+}
+
+#table-id {
+    width: 20%;
+}
+
+#table-name,
+#table-email {
+    width: 50%;
+}
+
+#currentPage {
+    margin: 15px;
+    font-size: medium;
+    color: royalblue;
+    text-decoration: underline;
+}
+
+#nextPage,
+#prevPage {
+    margin: 15px;
+    background-color: #fff;
+}
